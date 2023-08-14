@@ -68,6 +68,14 @@ async function update() {
       value: lovedate,
       color: "#E75875",
     },
+    birthday1:{
+      value: birthday1,
+      color: "#E75875",
+    }
+    birthday2:{
+      value: birthday2,
+      color: "#E75875",
+    }
     text: {
       value: content,
       color: "#E07A70",
